@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "jwt.auth.app",
+      "type": "java.lang.String",
+      "description": "Description for jwt.auth.app."
+    },
+    {
+      "name": "bezkoder.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for bezkoder.app.jwtSecret."
+    },
+    {
+      "name": "server.session.tracking-modes",
+      "type": "java.lang.String",
+      "description": "Description for server.session.tracking-modes."
+    }
+  ] }
